@@ -1,0 +1,28 @@
+.form-control{
+	box-shadow: none;
+	outline: 0px;
+	border-radius: 0px;
+}
+.btn{
+	border-radius: 0px;
+}
+label{
+	font-weight: normal;
+}
+.well{
+	background: #fff;
+	border-radius: 0px;
+}
+.right-sidebar ul{}
+.right-sidebar ul li{list-style: none;}
+.right-sidebar ul li::before {
+    content: "• ";
+    color: #1a89b0;
+}
+.message_box{
+	overflow-y: scroll;
+    height: 250px;
+}
+.nav-tabs {
+    border-bottom: none;
+}
