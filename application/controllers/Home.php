@@ -6,7 +6,7 @@ class Home extends CI_Controller {
 
 	/**
 	*
-	*Description : This is home Controller
+	*Description : Home Controller
 	*
 	*@param 
 	*@return 
